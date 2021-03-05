@@ -1,13 +1,15 @@
-ebook_metadata:
+id: P000024
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །མངོན་པར་རྟོགས་པ་རྒྱན་གྱི་འགྲེལ་པ་རྗེ་བཙུན་བྱམས་པའི་ཞལ་ལུང་ཞེས་བྱ་བ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། ཀུན་མཁྱེན་པདྨ་དཀར་པོ།
-  sku: KS-PK-12
   layers:
   - book_title
   - author
   - sabche
+  id: KS-PK-12
 web_metadata:
   title:
     en: The Words of Lord Maitreya:A Commentary on the Ornament of Realization
